@@ -12,7 +12,7 @@ Code for reproducing results from our paper.
 ```bash
 python reproduce_paper_results.py
 ```
-## Reproducing Paper Results Using Notebook
+## Reproducing Paper Results Using Jupyter lab
 ```bash
 reproduce_paper_results.ipynb
 ```
