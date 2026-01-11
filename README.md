@@ -12,6 +12,10 @@ Code for reproducing results from our paper.
 ```bash
 python reproduce_paper_results.py
 ```
+## Reproducing Paper Results Using Notebook
+```bash
+reproduce_paper_results.ipynb
+```
 
 Expected output on test set (312 samples):
 - AUROC: 0.694
